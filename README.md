@@ -1,2 +1,2 @@
 # Diario-de-Bordo
-Quick Start no GItHUb
+Prática diária de aprendizado
